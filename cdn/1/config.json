@@ -1,0 +1,1836 @@
+{
+  "pages": {
+    "page_0": {
+      "id": "page_0",
+      "mode": "FIT_WINDOW",
+      "type": "NORMAL",
+      "layout": {
+        "LARGE": "layout_0"
+      },
+      "isDefault": false,
+      "isVisible": true,
+      "label": "Mapa",
+      "header": true
+    },
+    "page_1": {
+      "id": "page_1",
+      "mode": "FIT_WINDOW",
+      "type": "NORMAL",
+      "layout": {
+        "LARGE": "layout_11"
+      },
+      "isDefault": true,
+      "isVisible": true,
+      "label": "Página",
+      "header": false,
+      "footer": false
+    }
+  },
+  "layouts": {
+    "layout_0": {
+      "type": "FIXED",
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "widgetId": "widget_1",
+          "bbox": {
+            "left": "0%",
+            "right": "0%",
+            "top": "0%",
+            "bottom": "0%",
+            "width": "100%",
+            "height": "100%"
+          },
+          "setting": {
+            "autoProps": {
+              "left": false,
+              "right": false,
+              "top": false,
+              "bottom": false,
+              "height": "STRETCH",
+              "width": "STRETCH"
+            },
+            "vCenter": false,
+            "hCenter": false
+          }
+        }
+      },
+      "order": [
+        "0"
+      ]
+    },
+    "layout_2": {
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "widgetId": "widget_4",
+          "bbox": {
+            "left": "0.0%",
+            "right": "0.0%",
+            "top": "0.0%",
+            "bottom": "0.0%",
+            "width": "100.0%",
+            "height": "100.0%"
+          },
+          "setting": {
+            "autoProps": {
+              "right": false,
+              "left": false,
+              "top": false,
+              "bottom": false,
+              "height": "STRETCH",
+              "width": "STRETCH"
+            },
+            "vCenter": false,
+            "hCenter": false
+          }
+        }
+      },
+      "type": "FIXED",
+      "label": "Primero",
+      "order": [
+        "0"
+      ]
+    },
+    "layout_3": {
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "widgetId": "widget_2",
+          "bbox": {
+            "left": "0.0%",
+            "right": "0.0%",
+            "top": "0.0%",
+            "bottom": "0.0%",
+            "width": "100.0%",
+            "height": "100.0%"
+          },
+          "setting": {
+            "autoProps": {
+              "right": false,
+              "left": true,
+              "top": true,
+              "bottom": false
+            },
+            "vCenter": false,
+            "hCenter": false
+          }
+        }
+      },
+      "type": "FIXED",
+      "label": "Segundo",
+      "order": [
+        "0"
+      ]
+    },
+    "layout_4": {
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "widgetId": "widget_3",
+          "bbox": {
+            "left": "0.0%",
+            "right": "0.0%",
+            "top": "0.0%",
+            "bottom": "0.0%",
+            "width": "100.0%",
+            "height": "100.0%"
+          },
+          "setting": {
+            "autoProps": {
+              "right": false,
+              "left": false,
+              "top": false,
+              "bottom": false,
+              "height": "STRETCH",
+              "width": "STRETCH"
+            },
+            "vCenter": false,
+            "hCenter": false
+          }
+        }
+      },
+      "type": "FIXED",
+      "label": "Primero",
+      "order": [
+        "0"
+      ]
+    },
+    "layout_5": {
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "widgetId": "widget_7",
+          "bbox": {
+            "left": "0.0%",
+            "right": "0.0%",
+            "top": "2.6%",
+            "bottom": "69.6%",
+            "width": "100.0%",
+            "height": "27.8%"
+          },
+          "setting": {
+            "autoProps": {
+              "right": false,
+              "left": true,
+              "top": false,
+              "bottom": true
+            },
+            "vCenter": false,
+            "hCenter": false
+          }
+        },
+        "1": {
+          "type": "WIDGET",
+          "widgetId": "widget_8",
+          "bbox": {
+            "left": "0.0%",
+            "right": "0.0%",
+            "top": "54.7%",
+            "bottom": "2.5%",
+            "width": "100.0%",
+            "height": "42.8%"
+          },
+          "setting": {
+            "autoProps": {
+              "right": false,
+              "left": true,
+              "top": true,
+              "bottom": false
+            },
+            "vCenter": false,
+            "hCenter": false
+          }
+        },
+        "2": {
+          "type": "WIDGET",
+          "widgetId": "widget_9",
+          "bbox": {
+            "left": "0.0%",
+            "right": "0.0%",
+            "top": "33.1%",
+            "bottom": "47.9%",
+            "width": "100.0%",
+            "height": "19.0%"
+          },
+          "setting": {
+            "autoProps": {
+              "right": false,
+              "left": true,
+              "top": false,
+              "bottom": true
+            },
+            "vCenter": false,
+            "hCenter": false
+          }
+        }
+      },
+      "type": "FIXED",
+      "label": "Segundo",
+      "order": [
+        "0",
+        "1",
+        "2"
+      ]
+    },
+    "layout_6": {
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "widgetId": "widget_20",
+          "bbox": {
+            "left": "81.5%",
+            "right": "1.0%",
+            "top": "90.1%",
+            "bottom": "4.0%",
+            "width": "17.5%",
+            "height": "5.9%"
+          },
+          "setting": {
+            "autoProps": {
+              "right": false,
+              "left": true,
+              "top": true,
+              "bottom": false
+            },
+            "vCenter": false,
+            "hCenter": false
+          }
+        }
+      },
+      "type": "FIXED",
+      "label": "Map FixedLayout",
+      "order": [
+        "0"
+      ]
+    },
+    "layout_7": {
+      "type": "FIXED",
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "widgetId": "widget_5",
+          "setting": {
+            "lockParent": true,
+            "autoProps": {
+              "right": false,
+              "left": true,
+              "top": false,
+              "bottom": true
+            }
+          },
+          "bbox": {
+            "left": "0.0%",
+            "right": "0.0%",
+            "top": "0.0%",
+            "bottom": "49.4%",
+            "width": "100.0%",
+            "height": "50.6%"
+          }
+        },
+        "1": {
+          "type": "WIDGET",
+          "widgetId": "widget_6",
+          "setting": {
+            "lockParent": true,
+            "autoProps": {
+              "right": false,
+              "left": true,
+              "top": true,
+              "bottom": false
+            }
+          },
+          "bbox": {
+            "left": "0.0%",
+            "right": "0.0%",
+            "top": "37.6%",
+            "bottom": "-0.5%",
+            "width": "100.0%",
+            "height": "62.9%"
+          }
+        }
+      },
+      "order": [
+        "0",
+        "1"
+      ],
+      "label": "Default"
+    },
+    "layout_8": {
+      "type": "FIXED",
+      "order": [
+        "0",
+        "1",
+        "2",
+        "3"
+      ],
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "13px",
+            "top": "15.0%",
+            "width": "65px",
+            "height": "62px",
+            "right": "1202px",
+            "bottom": "9px"
+          },
+          "widgetId": "widget_10",
+          "isPending": false,
+          "setting": {
+            "vCenter": false,
+            "hCenter": false,
+            "autoProps": {
+              "top": true,
+              "bottom": false,
+              "left": false,
+              "right": true
+            }
+          }
+        },
+        "1": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "99px",
+            "top": "24.9%",
+            "width": "359px",
+            "height": "45px",
+            "right": "64.2%",
+            "bottom": "22.2%"
+          },
+          "widgetId": "widget_11",
+          "setting": {
+            "hCenter": false,
+            "vCenter": false,
+            "autoProps": {
+              "left": false,
+              "right": true,
+              "top": true,
+              "bottom": false
+            }
+          },
+          "isPending": false
+        },
+        "2": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "434px",
+            "top": "50%",
+            "width": "505px",
+            "height": "47px",
+            "right": "341px",
+            "bottom": "22px"
+          },
+          "widgetId": "widget_12",
+          "isPending": false,
+          "setting": {
+            "vCenter": true,
+            "hCenter": false,
+            "autoProps": {
+              "top": false,
+              "bottom": true,
+              "right": false,
+              "left": true
+            }
+          }
+        },
+        "3": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "72.9%",
+            "top": "0.0%",
+            "width": "347px",
+            "height": "100.0%",
+            "right": "0px",
+            "bottom": "0px"
+          },
+          "widgetId": "widget_13",
+          "setting": {
+            "autoProps": {
+              "right": false,
+              "left": true,
+              "top": true,
+              "bottom": false
+            },
+            "hCenter": false,
+            "vCenter": false
+          }
+        }
+      }
+    },
+    "layout_9": {
+      "type": "FIXED",
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "15px",
+            "top": "50%",
+            "width": 54,
+            "height": 30
+          },
+          "widgetId": "widget_10",
+          "isPending": false,
+          "setting": {
+            "vCenter": true,
+            "hCenter": false,
+            "autoProps": {
+              "top": false,
+              "bottom": true
+            }
+          }
+        },
+        "1": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": 90,
+            "top": "0.0000%",
+            "width": 295,
+            "height": "100.0000%"
+          },
+          "widgetId": "widget_11",
+          "setting": {
+            "hCenter": false,
+            "vCenter": false
+          },
+          "isPending": true
+        },
+        "2": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "385px",
+            "top": "0.0000%",
+            "width": "226px",
+            "height": "100.0000%"
+          },
+          "widgetId": "widget_12",
+          "isPending": true,
+          "setting": {
+            "vCenter": false,
+            "hCenter": false
+          }
+        },
+        "3": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "72.8802%",
+            "top": "0.0000%",
+            "width": "347px",
+            "height": "100.0000%",
+            "right": "0px"
+          },
+          "widgetId": "widget_13",
+          "setting": {
+            "autoProps": {
+              "right": false,
+              "left": true
+            },
+            "hCenter": false
+          },
+          "isPending": true
+        },
+        "4": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "28.8889%",
+            "top": "50%",
+            "width": "83px",
+            "height": "100.0000%",
+            "right": 0
+          },
+          "widgetId": "widget_14",
+          "setting": {
+            "autoProps": {
+              "right": false,
+              "left": true,
+              "top": false,
+              "bottom": true
+            },
+            "vCenter": true
+          }
+        }
+      },
+      "order": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4"
+      ]
+    },
+    "layout_10": {
+      "type": "FIXED",
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "15px",
+            "top": "50%",
+            "width": 54,
+            "height": 30
+          },
+          "widgetId": "widget_10",
+          "isPending": false,
+          "setting": {
+            "vCenter": true,
+            "hCenter": false,
+            "autoProps": {
+              "top": false,
+              "bottom": true
+            }
+          }
+        },
+        "1": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": 90,
+            "top": "50%",
+            "width": 295,
+            "height": "100.0000%"
+          },
+          "widgetId": "widget_11",
+          "setting": {
+            "hCenter": false,
+            "vCenter": true,
+            "autoProps": {
+              "top": false,
+              "bottom": true
+            }
+          },
+          "isPending": false
+        },
+        "2": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "385px",
+            "top": "0.0000%",
+            "width": "226px",
+            "height": "100.0000%"
+          },
+          "widgetId": "widget_12",
+          "isPending": true,
+          "setting": {
+            "vCenter": false,
+            "hCenter": false
+          }
+        },
+        "3": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "72.8802%",
+            "top": "0.0000%",
+            "width": "347px",
+            "height": "100.0000%",
+            "right": "0px"
+          },
+          "widgetId": "widget_13",
+          "setting": {
+            "autoProps": {
+              "right": false,
+              "left": true
+            },
+            "hCenter": false
+          },
+          "isPending": true
+        },
+        "4": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "91.2%",
+            "right": "0.0%",
+            "top": "50%",
+            "bottom": "0.0%",
+            "width": "8.8%",
+            "height": "100.0%"
+          },
+          "widgetId": "widget_14",
+          "setting": {
+            "autoProps": {
+              "right": false,
+              "left": true,
+              "top": false,
+              "bottom": true
+            },
+            "vCenter": true,
+            "hCenter": false
+          },
+          "isPending": false
+        }
+      },
+      "order": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4"
+      ]
+    },
+    "layout_11": {
+      "type": "FIXED",
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "widgetId": "widget_15",
+          "bbox": {
+            "left": "0%",
+            "right": "0%",
+            "top": "0%",
+            "bottom": "0%",
+            "width": "100%",
+            "height": "100%"
+          },
+          "setting": {
+            "autoProps": {
+              "left": false,
+              "right": false,
+              "top": false,
+              "bottom": false,
+              "height": "STRETCH",
+              "width": "STRETCH"
+            },
+            "vCenter": false,
+            "hCenter": false
+          }
+        },
+        "1": {
+          "type": "WIDGET",
+          "widgetId": "widget_16",
+          "bbox": {
+            "left": "16.8%",
+            "right": "13.1%",
+            "top": "25.6%",
+            "bottom": "25.7%",
+            "width": "70.1%",
+            "height": "48.7%"
+          },
+          "setting": {
+            "autoProps": {
+              "right": false,
+              "left": true,
+              "top": false,
+              "bottom": true
+            },
+            "vCenter": false,
+            "hCenter": false
+          }
+        }
+      },
+      "order": [
+        "0",
+        "1"
+      ]
+    },
+    "layout_12": {
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "widgetId": "widget_17",
+          "bbox": {
+            "left": "50%",
+            "right": "6.7%",
+            "top": "12.0%",
+            "bottom": "45.7%",
+            "width": "789px",
+            "height": "165px"
+          },
+          "setting": {
+            "autoProps": {
+              "right": true,
+              "left": false,
+              "top": false,
+              "bottom": true
+            },
+            "vCenter": false,
+            "hCenter": true
+          }
+        },
+        "1": {
+          "type": "WIDGET",
+          "widgetId": "widget_18",
+          "bbox": {
+            "left": "50%",
+            "right": "19.2%",
+            "top": "59.4%",
+            "bottom": "24.9%",
+            "width": "494px",
+            "height": "61px"
+          },
+          "setting": {
+            "autoProps": {
+              "left": false,
+              "right": true,
+              "top": true,
+              "bottom": false
+            },
+            "vCenter": false,
+            "hCenter": true
+          }
+        },
+        "2": {
+          "type": "WIDGET",
+          "widgetId": "widget_19",
+          "bbox": {
+            "left": "50%",
+            "right": "36.6%",
+            "top": "79.1%",
+            "bottom": "8.1%",
+            "width": "220px",
+            "height": "50px"
+          },
+          "setting": {
+            "autoProps": {
+              "right": true,
+              "left": false,
+              "top": true,
+              "bottom": false
+            },
+            "hCenter": true
+          }
+        }
+      },
+      "type": "FIXED",
+      "label": "Default",
+      "order": [
+        "0",
+        "1",
+        "2"
+      ]
+    }
+  },
+  "exbVersion": "1.14.0",
+  "mainSizeMode": "LARGE",
+  "theme": "themes/default/",
+  "forBuilderAttributes": {
+    "lockLayout": true
+  },
+  "template": "blankfullscreen",
+  "widgets": {
+    "widget_1": {
+      "uri": "widgets/layout/sidebar/",
+      "version": "1.14.0",
+      "label": "Barra lateral",
+      "config": {
+        "direction": "HORIZONTAL",
+        "collapseSide": "FIRST",
+        "overlay": false,
+        "size": "300px",
+        "divider": {
+          "visible": true,
+          "lineStyle": {
+            "type": "solid",
+            "color": "var(--light-500)",
+            "width": "1px"
+          }
+        },
+        "resizable": true,
+        "toggleBtn": {
+          "visible": true,
+          "iconSource": 0,
+          "icon": "LEFT",
+          "offsetX": 15,
+          "offsetY": 0,
+          "position": "CENTER",
+          "iconSize": 14,
+          "width": 15,
+          "height": 60,
+          "border": {
+            "type": "solid",
+            "color": "var(--light-500)",
+            "width": "1px"
+          },
+          "color": {
+            "normal": {
+              "icon": {
+                "useTheme": false,
+                "color": "var(--black)"
+              },
+              "bg": {
+                "useTheme": true,
+                "color": "var(--light)"
+              }
+            },
+            "hover": {
+              "bg": {
+                "useTheme": true,
+                "color": "var(--light)"
+              }
+            }
+          },
+          "expandStyle": {
+            "style": {
+              "borderRadius": "0 92px 92px 0"
+            }
+          },
+          "collapseStyle": {
+            "style": {
+              "borderRadius": "0 92px 92px 0"
+            }
+          }
+        },
+        "defaultState": 1
+      },
+      "id": "widget_1",
+      "layouts": {
+        "FIRST": {
+          "LARGE": "layout_2"
+        },
+        "SECOND": {
+          "LARGE": "layout_3"
+        }
+      }
+    },
+    "widget_2": {
+      "uri": "widgets/layout/sidebar/",
+      "version": "1.14.0",
+      "label": "Barra lateral 2",
+      "config": {
+        "direction": "HORIZONTAL",
+        "collapseSide": "SECOND",
+        "overlay": false,
+        "size": "300px",
+        "divider": {
+          "visible": true,
+          "lineStyle": {
+            "type": "solid",
+            "color": "var(--light-500)",
+            "width": "1px"
+          }
+        },
+        "resizable": true,
+        "toggleBtn": {
+          "visible": false,
+          "iconSource": 0,
+          "icon": "RIGHT",
+          "offsetX": -15,
+          "offsetY": 0,
+          "position": "CENTER",
+          "iconSize": 14,
+          "width": 15,
+          "height": 60,
+          "border": {
+            "type": "solid",
+            "color": "var(--light-500)",
+            "width": "1px"
+          },
+          "color": {
+            "normal": {
+              "icon": {
+                "useTheme": false,
+                "color": "var(--black)"
+              },
+              "bg": {
+                "useTheme": true,
+                "color": "var(--light)"
+              }
+            },
+            "hover": {
+              "bg": {
+                "useTheme": true,
+                "color": "var(--light)"
+              }
+            }
+          },
+          "expandStyle": {
+            "style": {
+              "borderRadius": "92px 0 0 92px"
+            }
+          },
+          "collapseStyle": {
+            "style": {
+              "borderRadius": "92px 0 0 92px"
+            }
+          }
+        },
+        "defaultState": 0
+      },
+      "id": "widget_2",
+      "layouts": {
+        "FIRST": {
+          "LARGE": "layout_4"
+        },
+        "SECOND": {
+          "LARGE": "layout_5"
+        }
+      }
+    },
+    "widget_3": {
+      "uri": "widgets/arcgis/arcgis-map/",
+      "version": "1.14.0",
+      "label": "Mapa",
+      "config": {
+        "toolConfig": {
+          "canZoom": true,
+          "canHome": true,
+          "canSearch": false,
+          "canNavigation": true,
+          "canLayers": true,
+          "canBaseMap": true,
+          "canSelect": false,
+          "canSelectState": false,
+          "canExtentNavigate": false
+        },
+        "isUseCustomMapState": true,
+        "initialMapDataSourceID": "dataSource_2",
+        "initialMapState": {
+          "viewPoint": {
+            "rotation": 0,
+            "scale": 2311162.2171545,
+            "targetGeometry": {
+              "spatialReference": {
+                "latestWkid": 3857,
+                "wkid": 102100
+              },
+              "x": -87870.59431456972,
+              "y": 5076087.461927124
+            }
+          },
+          "extent": {
+            "spatialReference": {
+              "latestWkid": 3857,
+              "wkid": 102100
+            },
+            "xmin": -213227.32070222544,
+            "ymin": 4942169.788371531,
+            "xmax": 37486.132073086,
+            "ymax": 5210005.135482717
+          },
+          "rotation": 0,
+          "viewType": "2d"
+        },
+        "showPopupUponSelection": true,
+        "clientQueryDataSourceIds": [
+          "dataSource_2"
+        ],
+        "disableScroll": false,
+        "disablePopUp": false
+      },
+      "id": "widget_3",
+      "layouts": {
+        "MapFixedLayout": {
+          "LARGE": "layout_6"
+        }
+      },
+      "useDataSources": [
+        {
+          "dataSourceId": "dataSource_2",
+          "mainDataSourceId": "dataSource_2"
+        }
+      ]
+    },
+    "widget_4": {
+      "uri": "widgets/common/list/",
+      "version": "1.14.0",
+      "label": "Lista",
+      "config": {
+        "maxItems": 100,
+        "space": 10,
+        "verticalSpace": 10,
+        "horizontalSpace": 10,
+        "itemsPerPage": 10,
+        "isItemStyleConfirm": true,
+        "isInitialed": true,
+        "pageStyle": "SCROLL",
+        "itemStyle": "STYLE5",
+        "hoverType": "HOVER0",
+        "selectedStyle": "STYLE0",
+        "differentOddEven": false,
+        "scrollBarOpen": true,
+        "direction": "VERTICAL",
+        "alignType": "CENTER",
+        "scrollStep": 2,
+        "cardConfigs": {
+          "DEFAULT": {
+            "cardSize": {
+              "LARGE": {
+                "width": 660,
+                "height": 88
+              }
+            },
+            "enable": true,
+            "backgroundStyle": {
+              "border": {
+                "type": "solid",
+                "color": "var(--light-400)",
+                "width": "0px"
+              }
+            },
+            "listLayout": "Custom"
+          },
+          "HOVER": {
+            "cardSize": {
+              "LARGE": {
+                "width": 660,
+                "height": 88
+              }
+            },
+            "enable": false,
+            "backgroundStyle": {
+              "border": {
+                "type": "solid",
+                "color": "var(--light-400)",
+                "width": "1px"
+              }
+            },
+            "listLayout": "Auto"
+          },
+          "SELECTED": {
+            "cardSize": {
+              "LARGE": {
+                "width": 660,
+                "height": 88
+              }
+            },
+            "backgroundStyle": {
+              "border": {
+                "type": "solid",
+                "color": "var(--primary-500)",
+                "width": "1px"
+              },
+              "borderRadius": {
+                "number": [
+                  1,
+                  1,
+                  1,
+                  1
+                ],
+                "unit": "px"
+              }
+            },
+            "selectionMode": "SINGLE",
+            "listLayout": "Auto"
+          }
+        },
+        "style": {
+          "id": "default"
+        },
+        "isCheckEmptyTemplate": false,
+        "filters": null,
+        "isShowAutoRefresh": false,
+        "layoutType": "ROW",
+        "keepAspectRatio": false,
+        "navigatorOpen": true,
+        "showRecordCount": false,
+        "showSelectedOnlyOpen": true,
+        "showClearSelected": true,
+        "sortOpen": true,
+        "searchOpen": false,
+        "filterOpen": false
+      },
+      "id": "widget_4",
+      "useDataSourcesEnabled": true,
+      "layouts": {
+        "DEFAULT": {
+          "LARGE": "layout_7"
+        },
+        "HOVER": {}
+      },
+      "dataActions": {
+        "showOnMap": {
+          "config": {
+            "isUseCustomSymbol": true,
+            "symbolOption": {
+              "pointSymbol": {
+                "type": "esriSMS",
+                "color": [
+                  255,
+                  255,
+                  0,
+                  150
+                ],
+                "angle": 0,
+                "xoffset": 0,
+                "yoffset": 0,
+                "size": 12,
+                "style": "esriSMSCircle",
+                "outline": {
+                  "type": "esriSLS",
+                  "color": [
+                    255,
+                    255,
+                    0,
+                    150
+                  ],
+                  "width": 1,
+                  "style": "esriSLSSolid"
+                }
+              },
+              "polylineSymbol": {
+                "type": "esriSLS",
+                "color": [
+                  255,
+                  255,
+                  0,
+                  150
+                ],
+                "width": 0.75,
+                "style": "esriSLSSolid"
+              },
+              "polygonSymbol": {
+                "type": "esriSFS",
+                "color": [
+                  255,
+                  255,
+                  0,
+                  150
+                ],
+                "outline": {
+                  "type": "esriSLS",
+                  "color": [
+                    255,
+                    255,
+                    0,
+                    150
+                  ],
+                  "width": 1,
+                  "style": "esriSLSSolid"
+                },
+                "style": "esriSFSSolid"
+              }
+            }
+          }
+        }
+      },
+      "useDataSources": [
+        {
+          "dataSourceId": "dataSource_2-18eec845b0e-layer-3",
+          "mainDataSourceId": "dataSource_2-18eec845b0e-layer-3",
+          "rootDataSourceId": "dataSource_2",
+          "fields": []
+        }
+      ]
+    },
+    "widget_5": {
+      "uri": "widgets/common/text/",
+      "version": "1.14.0",
+      "label": "Texto",
+      "config": {
+        "text": "<p><strong style=\"font-size: 18px;\"><exp data-uniqueid=\"61db57ee_176a_42f0_cda2_8f26a6bf4492\" data-dsid=\"dataSource_2-18eec845b0e-layer-3\" data-expression=\"%7B%22name%22%3A%22%7BN%C3%BAcleo%20de%20poblaci%C3%B3n%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BN%C3%BAcleo%20de%20poblaci%C3%B3n%7D%22%2C%22dataSourceId%22%3A%22dataSource_2-18eec845b0e-layer-3%22%2C%22jimuFieldName%22%3A%22NOMBRE%22%2C%22isFromRepeatedDataSourceContext%22%3Atrue%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿﻿{Núcleo de población}﻿﻿</span>﻿</exp></strong><span style=\"font-size: 18px;\">,</span><span style=\"font-size: 16px;\"> <exp data-uniqueid=\"1d7528e0_fa69_feee_22f0_43027afe11ea\" data-dsid=\"dataSource_2-18eec845b0e-layer-3\" data-expression=\"%7B%22name%22%3A%22%7BProvincia%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BProvincia%7D%22%2C%22dataSourceId%22%3A%22dataSource_2-18eec845b0e-layer-3%22%2C%22jimuFieldName%22%3A%22PROVINCIA%22%2C%22isFromRepeatedDataSourceContext%22%3Atrue%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿﻿{Provincia}﻿﻿</span>﻿</exp>  ﻿</span></p>",
+        "style": {
+          "verticalAlign": "start",
+          "wrap": true
+        }
+      },
+      "id": "widget_5",
+      "useDataSources": [
+        {
+          "dataSourceId": "dataSource_2-18eec845b0e-layer-3",
+          "mainDataSourceId": "dataSource_2-18eec845b0e-layer-3",
+          "rootDataSourceId": "dataSource_2",
+          "fields": [
+            "NOMBRE",
+            "PROVINCIA"
+          ]
+        }
+      ],
+      "useDataSourcesEnabled": true
+    },
+    "widget_6": {
+      "uri": "widgets/common/text/",
+      "version": "1.14.0",
+      "label": "Texto 2",
+      "config": {
+        "text": "<p><span style=\"color: var(--danger-700); font-size: 16px;\"><exp data-uniqueid=\"5ade8201_dc53_c2cc_4072_e444bba70500\" data-dsid=\"dataSource_2-18eec845b0e-layer-3\" data-expression=\"%7B%22name%22%3A%22Expresi%C3%B3n%202%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BFase%20en%20el%20proceso%20de%20despoblaci%C3%B3n%7D%22%2C%22dataSourceId%22%3A%22dataSource_2-18eec845b0e-layer-3%22%2C%22jimuFieldName%22%3A%22DESPOBLA%22%2C%22isFromRepeatedDataSourceContext%22%3Atrue%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿﻿﻿Expresión 2﻿﻿﻿</span>﻿</exp></span> </p>",
+        "style": {
+          "verticalAlign": "start",
+          "wrap": true
+        }
+      },
+      "id": "widget_6",
+      "useDataSources": [
+        {
+          "dataSourceId": "dataSource_2-18eec845b0e-layer-3",
+          "mainDataSourceId": "dataSource_2-18eec845b0e-layer-3",
+          "rootDataSourceId": "dataSource_2",
+          "fields": [
+            "DESPOBLA"
+          ]
+        }
+      ],
+      "useDataSourcesEnabled": true
+    },
+    "widget_7": {
+      "uri": "widgets/common/select/",
+      "version": "1.14.0",
+      "label": "Seleccionar",
+      "config": {
+        "useMap": true,
+        "dataAttributeInfo": {
+          "allowGenerated": false,
+          "dataSourceItems": []
+        },
+        "mapInfo": {
+          "allowGenerated": false,
+          "enableAttributeSelection": false,
+          "jimuMapViews": {
+            "widget_3-dataSource_2": [
+              {
+                "uid": "cd306290-fd08-11ee-8f8c-a515d1fb92e5",
+                "sqlHint": "",
+                "useDataSource": {
+                  "dataSourceId": "dataSource_2-18eec845b0e-layer-3",
+                  "mainDataSourceId": "dataSource_2-18eec845b0e-layer-3",
+                  "rootDataSourceId": "dataSource_2"
+                },
+                "sqlExpression": null,
+                "jimuLayerViewId": "widget_3-dataSource_2-18eec845b0e-layer-3"
+              },
+              {
+                "uid": "cd306291-fd08-11ee-8f8c-a515d1fb92e5",
+                "sqlHint": "",
+                "useDataSource": {
+                  "dataSourceId": "dataSource_2-18eece48e10-layer-185",
+                  "mainDataSourceId": "dataSource_2-18eece48e10-layer-185",
+                  "rootDataSourceId": "dataSource_2"
+                },
+                "sqlExpression": null,
+                "jimuLayerViewId": "widget_3-dataSource_2-18eece48e10-layer-185"
+              }
+            ]
+          }
+        },
+        "interactiveTools": {
+          "tools": [
+            "rectangle"
+          ],
+          "partiallyWithin": true
+        },
+        "spatialSelection": {
+          "enable": false,
+          "useDataSources": [],
+          "relationships": [
+            "Intersects"
+          ],
+          "buffer": {
+            "enable": false,
+            "distance": 0,
+            "unit": "Meters"
+          }
+        }
+      },
+      "id": "widget_7",
+      "dataActions": {
+        "showOnMap": {
+          "config": {
+            "isUseCustomSymbol": true,
+            "symbolOption": {
+              "pointSymbol": {
+                "type": "esriSMS",
+                "color": [
+                  255,
+                  255,
+                  0,
+                  150
+                ],
+                "angle": 0,
+                "xoffset": 0,
+                "yoffset": 0,
+                "size": 12,
+                "style": "esriSMSCircle",
+                "outline": {
+                  "type": "esriSLS",
+                  "color": [
+                    255,
+                    255,
+                    0,
+                    150
+                  ],
+                  "width": 1,
+                  "style": "esriSLSSolid"
+                }
+              },
+              "polylineSymbol": {
+                "type": "esriSLS",
+                "color": [
+                  255,
+                  255,
+                  0,
+                  150
+                ],
+                "width": 0.75,
+                "style": "esriSLSSolid"
+              },
+              "polygonSymbol": {
+                "type": "esriSFS",
+                "color": [
+                  255,
+                  255,
+                  0,
+                  150
+                ],
+                "outline": {
+                  "type": "esriSLS",
+                  "color": [
+                    255,
+                    255,
+                    0,
+                    150
+                  ],
+                  "width": 1,
+                  "style": "esriSLSSolid"
+                },
+                "style": "esriSFSSolid"
+              }
+            }
+          }
+        }
+      },
+      "useMapWidgetIds": [
+        "widget_3"
+      ],
+      "useDataSources": [
+        {
+          "dataSourceId": "dataSource_2-18eec845b0e-layer-3",
+          "mainDataSourceId": "dataSource_2-18eec845b0e-layer-3",
+          "rootDataSourceId": "dataSource_2"
+        },
+        {
+          "dataSourceId": "dataSource_2-18eece48e10-layer-185",
+          "mainDataSourceId": "dataSource_2-18eece48e10-layer-185",
+          "rootDataSourceId": "dataSource_2"
+        }
+      ]
+    },
+    "widget_8": {
+      "uri": "widgets/arcgis/legend/",
+      "version": "1.14.0",
+      "label": "Leyenda",
+      "config": {
+        "showBaseMap": false,
+        "cardStyle": true,
+        "style": {
+          "useCustom": false
+        }
+      },
+      "id": "widget_8",
+      "useMapWidgetIds": [
+        "widget_3"
+      ]
+    },
+    "widget_9": {
+      "uri": "widgets/arcgis/map-layers/",
+      "version": "1.14.0",
+      "label": "Capas del mapa",
+      "config": {
+        "useMapWidget": true,
+        "customizeLayerOptions": {
+          "widget_3-dataSource_2": {
+            "isEnabled": true,
+            "hiddenJimuLayerViewIds": []
+          }
+        }
+      },
+      "id": "widget_9",
+      "useMapWidgetIds": [
+        "widget_3"
+      ]
+    },
+    "widget_10": {
+      "uri": "widgets/common/image/",
+      "version": "1.14.0",
+      "label": "Imagen",
+      "config": {
+        "functionConfig": {
+          "altText": "",
+          "toolTip": "",
+          "linkParam": {},
+          "scale": "Fit",
+          "imageParam": {
+            "url": "https://seeklogo.com/images/G/gobierno-de-aragon-logo-5788638516-seeklogo.com.png",
+            "originalUrl": "https://seeklogo.com/images/G/gobierno-de-aragon-logo-5788638516-seeklogo.com.png",
+            "fileName": "gobierno-de-aragon-logo-5788638516-seeklogo.com.png",
+            "originalName": "gobierno-de-aragon-logo-5788638516-seeklogo.com.png",
+            "imgSourceType": "BY_URL"
+          },
+          "imgSourceType": "",
+          "srcExpression": null,
+          "imageDisplayQualityMode": "ORIGINAL",
+          "imageFillMode": "FIT"
+        },
+        "styleConfig": {}
+      },
+      "id": "widget_10"
+    },
+    "widget_11": {
+      "uri": "widgets/common/text/",
+      "version": "1.14.0",
+      "label": "Texto 3",
+      "config": {
+        "text": "<p><span style=\"font-size: 1.5rem;\">﻿DESPOBLACIÓN EN ARAGÓN</span></p>",
+        "style": {
+          "verticalAlign": "center",
+          "wrap": true
+        }
+      },
+      "id": "widget_11"
+    },
+    "widget_12": {
+      "uri": "widgets/common/text/",
+      "version": "1.14.0",
+      "label": "Texto 4",
+      "config": {
+        "text": "<p style=\"line-height: 2.5;\"><span style=\"font-size: 16px;\">Núcleos despoblados o en riesgo de despoblamiento</span></p>",
+        "style": {
+          "verticalAlign": "center",
+          "wrap": true
+        }
+      },
+      "id": "widget_12"
+    },
+    "widget_13": {
+      "uri": "widgets/common/menu/",
+      "version": "1.14.0",
+      "label": "Menú",
+      "config": {
+        "type": "nav",
+        "menuStyle": "default",
+        "vertical": false,
+        "standard": {
+          "icon": {
+            "svg": "<svg viewBox=\"0 0 16 16\" xmlns=\"http://www.w3.org/2000/svg\" class=\"css-1i7frhi jimu-icon\"><path d=\"M2 1a1 1 0 100 2h12a1 1 0 100-2H2zm0-1h12a2 2 0 010 4H2a2 2 0 010-4zm0 7a1 1 0 100 2h12a1 1 0 100-2H2zm0-1h12a2 2 0 010 4H2a2 2 0 010-4zm0 7a1 1 0 100 2h12a1 1 0 100-2H2zm0-1h12a2 2 0 010 4H2a2 2 0 010-4z\" fill=\"currentColor\" fill-rule=\"nonzero\"></path></svg>",
+            "properties": {
+              "color": "#121212",
+              "size": 20
+            }
+          },
+          "submenuMode": "dropdown",
+          "textAlign": "center",
+          "showIcon": false,
+          "showText": true,
+          "iconPosition": "start",
+          "gap": "0px"
+        },
+        "advanced": true,
+        "variant": {
+          "item": {
+            "default": {
+              "color": "rgba(255, 255, 255, 0.65)",
+              "size": "22px"
+            },
+            "hover": {
+              "color": "rgb(255, 255, 255)"
+            },
+            "active": {
+              "color": "rgb(255, 255, 255)"
+            }
+          }
+        }
+      },
+      "id": "widget_13"
+    },
+    "widget_14": {
+      "uri": "widgets/common/menu/",
+      "version": "1.14.0",
+      "label": "Menú 2",
+      "config": {
+        "type": "drawer",
+        "menuStyle": "default",
+        "vertical": true,
+        "standard": {
+          "icon": {
+            "svg": "<svg viewBox=\"0 0 16 16\" xmlns=\"http://www.w3.org/2000/svg\" class=\"css-1i7frhi jimu-icon\"><path d=\"M2 1a1 1 0 100 2h12a1 1 0 100-2H2zm0-1h12a2 2 0 010 4H2a2 2 0 010-4zm0 7a1 1 0 100 2h12a1 1 0 100-2H2zm0-1h12a2 2 0 010 4H2a2 2 0 010-4zm0 7a1 1 0 100 2h12a1 1 0 100-2H2zm0-1h12a2 2 0 010 4H2a2 2 0 010-4z\" fill=\"currentColor\" fill-rule=\"nonzero\"></path></svg>",
+            "properties": {
+              "filename": null,
+              "originalName": null,
+              "path": null,
+              "color": "#fff",
+              "size": 20,
+              "inlineSvg": false
+            }
+          },
+          "submenuMode": "foldable",
+          "textAlign": "center",
+          "showIcon": false,
+          "showText": true,
+          "iconPosition": "start",
+          "gap": "0px",
+          "anchor": "right"
+        },
+        "advanced": false
+      },
+      "id": "widget_14"
+    },
+    "widget_15": {
+      "uri": "widgets/common/image/",
+      "version": "1.14.0",
+      "label": "Imagen 2",
+      "config": {
+        "functionConfig": {
+          "altText": "",
+          "toolTip": "",
+          "linkParam": {},
+          "scale": "Fit",
+          "imageParam": {
+            "url": "https://imagenes.heraldo.es/files/image_990_556/uploads/imagenes/2024/01/30/la-estrella-gsc1.jpeg",
+            "originalUrl": "https://imagenes.heraldo.es/files/image_990_556/uploads/imagenes/2024/01/30/la-estrella-gsc1.jpeg",
+            "fileName": "la-estrella-gsc1.jpeg",
+            "originalName": "la-estrella-gsc1.jpeg",
+            "imgSourceType": "BY_URL",
+            "cropParam": {
+              "svgViewBox": "0 0 16 16",
+              "svgPath": "M0 0h16v16H0z",
+              "cropShape": "square"
+            }
+          },
+          "imageDisplayQualityMode": "ORIGINAL",
+          "imgSourceType": "",
+          "srcExpression": null
+        },
+        "styleConfig": {}
+      },
+      "id": "widget_15"
+    },
+    "widget_16": {
+      "uri": "widgets/layout/fixed/",
+      "version": "1.14.0",
+      "label": "Panel fijo",
+      "config": null,
+      "id": "widget_16",
+      "layouts": {
+        "DEFAULT": {
+          "LARGE": "layout_12"
+        }
+      },
+      "style": {
+        "background": {
+          "color": "rgba(40,40,40,0.6)",
+          "fillType": "fill"
+        }
+      }
+    },
+    "widget_17": {
+      "uri": "widgets/common/text/",
+      "version": "1.14.0",
+      "label": "Texto 5",
+      "config": {
+        "text": "<p style=\"text-align: center;\"><span style=\"color: var(--light-400); font-size: 55px; text-shadow: rgb(250, 250, 250) 2px 1px 0px, rgba(0, 0, 0, 0.3) 4px 4px 3px;\">LA DESPOBLACIÓN EN ARAGÓN</span></p>",
+        "style": {
+          "verticalAlign": "start",
+          "wrap": true
+        }
+      },
+      "id": "widget_17"
+    },
+    "widget_18": {
+      "uri": "widgets/common/text/",
+      "version": "1.14.0",
+      "label": "Texto 6",
+      "config": {
+        "text": "<p style=\"text-align: center;\"><span style=\"text-shadow: rgba(0, 0, 0, 0.4) -4px -3px 4px, rgba(0, 0, 0, 0.2) -2px -2px 0px; color: var(--light-100); font-size: 26px;\">Núcleos despoblados o en riesgo</span></p>",
+        "style": {
+          "verticalAlign": "start",
+          "wrap": true
+        }
+      },
+      "id": "widget_18"
+    },
+    "widget_19": {
+      "uri": "widgets/common/button/",
+      "version": "1.14.0",
+      "label": "Botón",
+      "config": {
+        "functionConfig": {
+          "text": "Mapa",
+          "textExpression": null,
+          "linkParam": {
+            "linkType": "PAGE",
+            "value": "page_0",
+            "openType": "_self"
+          }
+        },
+        "styleConfig": {
+          "useCustom": true,
+          "customStyle": {
+            "regular": {
+              "background": {
+                "color": "var(--primary-900)",
+                "fillType": "fill"
+              },
+              "border": {
+                "type": "solid",
+                "color": "#076fe5",
+                "width": "1px"
+              },
+              "text": {
+                "color": "#fff",
+                "size": "20px",
+                "bold": true
+              },
+              "borderRadius": {
+                "unit": "px",
+                "number": [
+                  2,
+                  2,
+                  2,
+                  2
+                ]
+              },
+              "iconProps": {
+                "color": "#fff",
+                "size": 14
+              }
+            },
+            "hover": {
+              "background": {
+                "color": "var(--primary-200)",
+                "fillType": "fill"
+              },
+              "border": {
+                "type": "solid",
+                "color": "var(--primary-900)",
+                "width": "0px"
+              },
+              "text": {
+                "color": "var(--primary-900)",
+                "size": "20px",
+                "bold": true
+              },
+              "borderRadius": {
+                "unit": "px",
+                "number": [
+                  2,
+                  2,
+                  2,
+                  2
+                ]
+              },
+              "iconProps": {
+                "size": 14
+              }
+            }
+          }
+        }
+      },
+      "id": "widget_19"
+    },
+    "widget_20": {
+      "uri": "widgets/common/button/",
+      "version": "1.14.0",
+      "label": "Botón 2",
+      "config": {
+        "functionConfig": {
+          "text": "Selección y Capas",
+          "textExpression": null
+        },
+        "styleConfig": {
+          "useCustom": true,
+          "customStyle": {
+            "regular": {
+              "background": {
+                "color": "var(--secondary-100)",
+                "fillType": "fill"
+              },
+              "border": {
+                "type": "solid",
+                "color": "var(--dark-600)",
+                "width": "1px"
+              },
+              "text": {
+                "color": "var(--dark-800)",
+                "size": "14px"
+              },
+              "borderRadius": {
+                "number": [
+                  2,
+                  2,
+                  2,
+                  2
+                ],
+                "unit": "px"
+              },
+              "iconProps": {
+                "color": "#076fe5",
+                "size": 14
+              }
+            },
+            "hover": {
+              "background": {
+                "color": "var(--light-100)",
+                "fillType": "fill"
+              },
+              "border": {
+                "type": "solid",
+                "color": "#076fe5",
+                "width": "0px"
+              },
+              "text": {
+                "color": "var(--primary-600)",
+                "size": "14px"
+              },
+              "borderRadius": {
+                "number": [
+                  2,
+                  2,
+                  2,
+                  2
+                ],
+                "unit": "px"
+              },
+              "iconProps": {
+                "color": "#fff",
+                "size": 14
+              }
+            }
+          }
+        }
+      },
+      "id": "widget_20"
+    }
+  },
+  "widgetsManifest": {},
+  "views": {},
+  "sections": {},
+  "dialogs": {},
+  "dataSources": {
+    "dataSource_1": {
+      "id": "dataSource_1",
+      "type": "WEB_MAP",
+      "sourceLabel": "MapaLugaresDespoblados",
+      "itemId": "7b0c3293e76749e5b9ade7d79de000ff",
+      "portalUrl": "https://educacionesri.maps.arcgis.com"
+    },
+    "dataSource_2": {
+      "id": "dataSource_2",
+      "type": "WEB_MAP",
+      "sourceLabel": "MapaLugaresDespoblados",
+      "itemId": "7b0c3293e76749e5b9ade7d79de000ff",
+      "portalUrl": "https://educacionesri.maps.arcgis.com"
+    }
+  },
+  "messageConfigs": {
+    "messageConfig_1": {
+      "id": "messageConfig_1",
+      "widgetId": "widget_7",
+      "messageType": "DATA_RECORDS_SELECTION_CHANGE",
+      "actions": [
+        {
+          "actionId": "widget_3-filter-1713392553600",
+          "widgetId": "widget_3",
+          "messageWidgetId": "widget_7",
+          "actionName": "filter",
+          "description": null,
+          "config": {
+            "messageUseDataSource": null,
+            "actionUseDataSource": null,
+            "sqlExprObj": null,
+            "enabledDataRelationShip": true
+          },
+          "version": "1.14.0",
+          "useDataSources": []
+        }
+      ]
+    },
+    "messageConfig_2": {
+      "id": "messageConfig_2",
+      "widgetId": "widget_20",
+      "messageType": "BUTTON_CLICK",
+      "actions": [
+        {
+          "actionId": "widget_2-toggleSidebar-1713396195602",
+          "widgetId": "widget_2",
+          "messageWidgetId": "widget_20",
+          "actionName": "toggleSidebar",
+          "description": null,
+          "version": "1.14.0"
+        }
+      ]
+    }
+  },
+  "attributes": {
+    "portalUrl": "https://educacionesri.maps.arcgis.com",
+    "isWebTier": false,
+    "clientId": "",
+    "title": "Despoblación Aragón",
+    "description": "",
+    "type": "Web Experience",
+    "thumbnail": null
+  },
+  "sharedThemeVariables": {
+    "header": {},
+    "body": {},
+    "button": {},
+    "logo": {
+      "small": null,
+      "link": null
+    }
+  },
+  "originExbVersion": "1.14.0",
+  "pageStructure": [
+    {
+      "page_1": []
+    },
+    {
+      "page_0": []
+    }
+  ],
+  "header": {
+    "layout": {
+      "LARGE": "layout_8",
+      "SMALL": "layout_9",
+      "MEDIUM": "layout_10"
+    },
+    "height": {
+      "LARGE": 85
+    }
+  },
+  "timestamp": 1713439973445
+}
